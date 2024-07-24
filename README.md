@@ -100,7 +100,7 @@
 [**Nuclio School**](https://nuclio.school/) • Completed 2024 \
 Skills: `Linear Regression` `Logistic Regression` `Artificial Neural Network` `Decision Trees`
 `Recommender Systems` `Tensorflow` `Xgboost` `Collaborative Filtering` `Data Structure` `Algorithms`
-
+</br>
 [<img align="left" height="94px" width="94px" alt="Universidad Católica de El Salvador" src="https://i.imgur.com/IwLyFeT.png"/>](https://catolica.edu.sv/)
 **Marketing and International Business** \
 [**Universidad Católica de El Salvador**](https://catolica.edu.sv/)  • Completed 2024\
