@@ -113,11 +113,9 @@ Skills: `Marketing Strategy` `Advertising Campaigns` `Market Research` `SEO for 
     <a href="https://github.com/Manuel-ventura/Purchase-Propensity-Model-End-To-End">
         <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Manuel-ventura&repo=Purchase-Propensity-Model-End-To-End&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="Propensity Model">
     </a>
-
     <a href="https://github.com/Manuel-ventura/Coffee-Shop-Sales-Analysis">
         <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Manuel-ventura&repo=Coffee-Shop-Sales-Analysis&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="Coffee Shop Sales Analysis">
     </a>
-
     <a href="https://github.com/Manuel-ventura/Linear-Regression-eCommerce-Customers">
         <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Manuel-ventura&repo=Linear-Regression-eCommerce-Customers&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="Linear Regression eCommerce Customers">
     </a>
