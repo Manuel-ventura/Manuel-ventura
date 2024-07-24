@@ -102,7 +102,7 @@ Skills: `Linear Regression` `Logistic Regression` `Artificial Neural Network` `D
 `Recommender Systems` `Tensorflow` `Xgboost` `Collaborative Filtering` `Data Structure` `Algorithms`
 
 [<img align="left" height="94px" width="94px" alt="Universidad Católica de El Salvador" src="https://i.imgur.com/IwLyFeT.png"/>](https://catolica.edu.sv/)
-**Machine Learning Specialization** \
+**Marketing and International Business** \
 [**Universidad Católica de El Salvador**](https://catolica.edu.sv/)  • Completed 2024\
 Skills: `Marketing Strategy` `Advertising Campaigns` `Market Research` `SEO for E-commerce` `Search Engine Marketing (SEM)` `Email Marketing` `Product Marketing` `Digital Marketing` `International Business Development` `Web Design`
 <br>
