@@ -24,7 +24,8 @@
 </br>
 
 <!-- Short Bio -->
-<p>Welcome to my profile! </br> I'm an <b>AI enthusiast</b> currently building my skills in <b>Machine Learning</b> and <b>Deep Learning.</b> In addition to AI, I'm also diving into <b>Data Structures and Algorithms</b> to strengthen my foundational knowledge.</p>
+<p>Welcome to my profile!</p>
+<p>I'm Manuel Ventura, an AI enthusiast passionate about expanding my expertise in Machine Learning and Deep Learning. In addition to AI, I am deeply engaged in mastering Data Structures and Algorithms to solidify my foundational knowledge and enhance my problem-solving abilities.</p>
 
 <!-- Tech Stack -->
 </br>
