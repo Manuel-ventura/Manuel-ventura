@@ -122,6 +122,9 @@ Skills: `Marketing Strategy` `Advertising Campaigns` `Market Research` `SEO for 
     <a href="https://github.com/Manuel-ventura/Linear-Regression-eCommerce-Customers">
         <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Manuel-ventura&repo=Linear-Regression-eCommerce-Customers&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="Linear Regression eCommerce Customers">
     </a>
+    <a href="https://github.com/Manuel-ventura/Book-Recommendation-and-Search-Systems-Leveraging-NLP-for-Enhanced-User-Experience">
+        <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Manuel-ventura&repo=Book-Recommendation-and-Search-Systems-Leveraging-NLP-for-Enhanced-User-Experience&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="Book Recommendation and Search Systems Leveraging NLP for Enhanced User Experience">
+    </a>
 </p>
 
 <p align="right">
